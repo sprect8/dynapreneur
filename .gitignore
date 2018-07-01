@@ -3,6 +3,5 @@ node_modules
 .DS_Store
 build
 *.zip
-*.lock
 package-lock.json
 
